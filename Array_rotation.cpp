@@ -19,6 +19,7 @@ void arrayRotation(vector<int>& nums, int k){
 
     nums = temp;
 }
+//---------------------array rotation from k steps--------
 
 int main(){
 
