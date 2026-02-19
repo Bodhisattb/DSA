@@ -1,5 +1,6 @@
 import java.util.Arrays;
-class Solution{
+class solution{
+
 
 
 public int[] fair_Candy_swap(int[] aliceSizes, int[] bobSizes) {

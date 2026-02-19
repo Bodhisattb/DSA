@@ -21,13 +21,13 @@ while(left<right){
     right --;
 
 }
-//----------------USING C++ STL--------------//
+
 }
 void usingSTL(vector<int>& ar){
 
     reverse(ar.begin(),ar.end());
 }
-//-------------------------------------------//
+
 int main(){
 
     vector<int> arr = {1, 2, 3, 4, 5};
