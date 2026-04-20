@@ -26,6 +26,6 @@ class Solution {
 
         return high;   
     }
-
+}
 //remove this this is main class
 
